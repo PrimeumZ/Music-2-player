@@ -1,0 +1,41 @@
+.body-background{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/052/377/original/music-sound-waves-big-colorful-set-music-audio-collection-console-panel-electronic-radio-signal-equalizer-free-vector.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    
+}
+.header{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.note{
+
+    color:black;
+    font-size: 15px;
+}
+.song_name{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copyright-footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    color: white;
+    height: 50px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
